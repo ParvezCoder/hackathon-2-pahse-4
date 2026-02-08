@@ -1,4 +1,5 @@
 #!/usr/bin/env pwsh
+# <!-- Developed By Parvez Coder -->
 
 # Consolidated prerequisite checking script (PowerShell)
 #

@@ -1,7 +1,7 @@
 ---
 description: Review planning artifacts for architecturally significant decisions and create ADRs.
 ---
-
+<!-- Developed By Parvez Coder -->
 # COMMAND: Analyze planning artifacts and document architecturally significant decisions as ADRs
 
 ## CONTEXT

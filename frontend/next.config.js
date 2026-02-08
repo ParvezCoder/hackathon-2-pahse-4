@@ -1,4 +1,6 @@
 /** @type {import('next').NextConfig} */
+// <!-- Developed By Parvez Coder -->
+
 const nextConfig = {
   output: "standalone",
   async rewrites() {

@@ -3,6 +3,7 @@
 **Feature**: 001-k8s-deployment
 **Date**: 2026-02-01
 **Status**: Complete
+<!-- Developed By Parvez Coder -->
 
 ## Overview
 
